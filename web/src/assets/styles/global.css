@@ -19,6 +19,7 @@
     --color-button-text: #FFFFFF;
     --color-box-base: #FFFFFF;
     --color-box-footer: #FAFAFC;
+    --color-box-small-info: #C1BCCC;
 }
 
 * {
@@ -43,6 +44,7 @@ body {
 
 body, input, button, textarea {
     font: 500 1.6rem Poppins;
+    color: var(--color-text-base);
 }
 
 .container {
